@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Suporte a Varios Idiomas</string>
+    <string name="text" translatable="false">Projeto de internacionalização DIO</string>
+</resources>
